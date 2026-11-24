@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Replication code: school attendance among married women in Ghana, 1993-2022"
+type: software
+authors:
+  - family-names: Angmor
+    given-names: Robert Naatey
+    affiliation: "University of Cape Coast"
+version: "1.0.0"
+date-released: "2026-11-24"
+license: MIT
